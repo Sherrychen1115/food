@@ -223,3 +223,6 @@ __marimo__/
 # 金鑰檔案不可以 commit(只有 .env.example 可以)
 .env*
 !.env.example
+
+# DATA_DIR:同學傳的照片和 Excel 紀錄不可以 commit
+data/
